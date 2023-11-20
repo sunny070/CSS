@@ -1,0 +1,6 @@
+#1 Float
+float:left;
+float:right;
+
+if the normal behavior changed
+clear:both;
