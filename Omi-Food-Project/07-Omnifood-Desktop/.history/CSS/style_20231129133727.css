@@ -111,7 +111,7 @@ body{
 /* HEADER */
 /* ***************************************** */
 .header{
-    background-color:#fae5d3;
+    background-color:#fdf2e9;;
     display: flex;
     justify-content:space-between ;
     align-items:center;

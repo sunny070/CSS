@@ -135,7 +135,6 @@ body{
 .hero{
     /* background-color: blueviolet; */
     margin: 0 auto;
-    padding: 0 3.2rem;
     max-width:130rem;
     display:grid;
     /* height: 100vh; */

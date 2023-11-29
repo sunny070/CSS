@@ -111,7 +111,7 @@ body{
 /* HEADER */
 /* ***************************************** */
 .header{
-    background-color:#fae5d3;
+    background-color:#fdf2e9;;
     display: flex;
     justify-content:space-between ;
     align-items:center;
@@ -129,7 +129,7 @@ body{
 /* ***************************************** */
 
 .section-hero{
-    background-color:#fae5d3;
+    background-color:#fdf2e9;;
     padding:4.8rem 0 9.6rem 0;;
 }
 .hero{
